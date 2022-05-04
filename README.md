@@ -1,2 +1,2 @@
-#DEVRİM ÖZÇAY, MEHMET ALPKAYA
-# Bitirme-Projesi-KariyerNet--IsTanimi-ve-CV-Eslestirme
+
+# DEVRİM ÖZÇAY, MEHMET ALPKAYA-Bitirme-Projesi-KariyerNet--IsTanimi-ve-CV-Eslestirme
